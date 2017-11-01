@@ -1,0 +1,12 @@
+{
+    "name": "asdozzz/filemakers",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Smirnov Leonid",
+            "email": "asdozzz89@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
