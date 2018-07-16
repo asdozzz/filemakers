@@ -8,7 +8,7 @@ class Filemakers
 	{
 		if (empty($classname))
 		{
-			throw new Exception("Название класса не указано");
+			throw new \Exception("Название класса не указано");
 		}
 
 		$config = \Config::get('filemakers.'.$classname);
